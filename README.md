@@ -1,7 +1,6 @@
 # GenealogyTree
 https://dbdiagram.io/d/67832cde6b7fa355c399cc4c le lien de ma conception de la base de données 
 
-Le travail se trouve sur la branche Master.
 
 Question2 du test)
    dans le système crée les utilisateur peuvent proposer des modifications ou suggéerer des nouvelles connexions entre les familles du coup les données evoluent soit
